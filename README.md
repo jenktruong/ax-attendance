@@ -21,3 +21,6 @@ Additional notes:
 - Any years with no attendance numbers recorded were removed since a forecast will be performed later. This applies to the last four years (2019, 2020, 2021, 2022). 2023 was the most recent convention, so there has been no official confirmation on attendance yet.
 - A majority of attendance records are estimates.
 
+## Link to Dashboard
+
+[Tableau Dashboard](https://public.tableau.com/views/AnimeExpoAXAttendance-InProgress/AnimeExpoEXPOnentiallyCrowded?:language=en-US&:display_count=n&:origin=viz_share_link)
