@@ -13,7 +13,6 @@ Two **business questions** will be addressed in this analysis:
 
 Because SPJA releases attendance numbers for AX primarily through external sources (ie. news media), there was no clean dataset that I could obtain attendance numbers from. Attendance data was acquired from two data sources:
 
-- AX [Wikipedia article](https://en.wikipedia.org/wiki/Anime_Expo#Convention_locations) - web scraped and cleaned using MS Excel's Data Connection and PowerQuery
 - [AnimeCons.com](https://animecons.com/events/info/19555/anime-expo-2023) - manually entered into Excel as a CSV
 
 Additional notes:
