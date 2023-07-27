@@ -1,8 +1,10 @@
 # Anime Expo (AX) Attendance Forecast
 
+![A picture of a crowd standing in front of South Hall during Anime Expo. Photo courtesy of the Anime Expo website.](ax-attendance/anime expo attendance.jpg)
+
 ## Intro
 
-Society for Promotion of Japanese Animation (SPJA)
+![Anime Expo](https://www.anime-expo.org/) is a large anime and manga convention hosted in Southern California every year since 1992 by the Society for Promotion of Japanese Animation (SPJA). Large crowds of Japanese pop culture fans are regularly attracted to this convention due to its large network of animation studios and industry insiders, variety of events and activities, artist shops, and cosplay gatherings. Notable celebrity guests from both domestic and international (mostly Japan) markets are invited to guest host panels or hold autograph signings for fans. Despite AX's notable spotlight in modern society, it historically has issues regarding crowd management, staffing, and other logistics regarding the venue (Los Angeles Convention Center) itself. The latest AX this year (2023) was no exception to this, and news articles and social media are forecasting these problems becoming worse in future years.
 
 Two **business questions** will be addressed in this analysis:
 
