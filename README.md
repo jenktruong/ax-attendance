@@ -8,7 +8,7 @@ The Los Angeles Convention Center (LACC), the current location for Anime Expo, m
 
 ## Business Problem
 
-![Anime Expo](https://www.anime-expo.org/) is a large anime and manga convention hosted in Southern California every year since 1992 by the Society for Promotion of Japanese Animation (SPJA), which has attracted crowds of Japanese pop culture fans. Despite AX's notable spotlight in modern society, it historically has issues regarding crowd management, staffing, and other logistics regarding the venue (LACC) itself. The latest AX this year (2023) was no exception to this, and news articles and social media are forecasting these problems becoming worse in future years.
+[Anime Expo](https://www.anime-expo.org/) is a large anime and manga convention hosted in Southern California every year since 1992 by the Society for Promotion of Japanese Animation (SPJA), which has attracted crowds of Japanese pop culture fans. Despite AX's notable spotlight in modern society, it historically has issues regarding crowd management, staffing, and other logistics regarding the venue (LACC) itself. The latest AX this year (2023) was no exception to this, and news articles and social media are forecasting these problems becoming worse in future years.
 
 Two **business questions** will be addressed in this analysis:
 
