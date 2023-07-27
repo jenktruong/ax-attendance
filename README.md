@@ -1,6 +1,6 @@
 # Anime Expo (AX) Attendance Forecast
 
-![A picture of a crowd standing in front of South Hall during Anime Expo. Photo courtesy of the Anime Expo website.](ax-attendance/anime-expo.jpg)
+![A picture of a crowd standing in front of South Hall during Anime Expo. Photo courtesy of the Anime Expo website.](anime-expo.jpg)
 
 ## Key Insight
 
@@ -36,6 +36,7 @@ Linear regression
 - Tableau (for data visualization)
 
 ### Results At A Glance
+![A line graph showing Anime Expo attendance from 1992 to 2018 with a positive trend line.](attendance-graph.png)
 
 ### What We Learned
 
@@ -58,5 +59,6 @@ These recommendations were mentioned in the dashboard, but some options SPJA cou
 - I overcompensated for the lack of data and my inability to showcase my skills with LARGE amounts of text. The easy way to solve that would be to add more visuals, of course, but I felt there was nothing I could do with the little amount of data I had.
 
 ## Link to Dashboard
+![A screenshot of my Anime Expo dashboard comparing the Los Angeles Convention Center to two other locations: Anaheim Convention Center and San Diego Convention Center.](ax-story-dashboard.png)
 
 [Tableau Dashboard](https://public.tableau.com/views/AnimeExpoAXAttendance-InProgress/AnimeExpoEXPOnentiallycrowded?:language=en-US&:display_count=n&:origin=viz_share_link)
